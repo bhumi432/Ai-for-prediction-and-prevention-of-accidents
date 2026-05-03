@@ -1,0 +1,39 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (regenerate with train script)
+models/*.joblib
+models/*.pkl
+
+# Large raw downloads (keep sample CSV tracked; ignore big files)
+data/raw/*.csv
+!data/raw/sample_accidents.csv
+
+# Local env / secrets
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
