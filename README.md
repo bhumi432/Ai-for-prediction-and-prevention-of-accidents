@@ -1,1 +1,0 @@
-# Ai-for-prediction-and-prevention-of-accidents
