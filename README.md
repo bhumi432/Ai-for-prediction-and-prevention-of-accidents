@@ -1,7 +1,5 @@
 # AI for Predicting and Preventing Road Accidents
 
-> **Product Requirement Document (PRD)** — A beginner-friendly roadmap for a small team or solo developer building a simple accident-risk assistant.
-
 ---
 
 ## 1. Project Overview
